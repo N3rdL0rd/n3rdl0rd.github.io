@@ -9,6 +9,7 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://n3rdl0rd.github.io",
   "baseUrl": "/",
+  "trailingSlash": true,
   "organizationName": "N3rdL0rd",
   "projectName": "n3rdl0rd.github.io",
   "onBrokenLinks": "throw",

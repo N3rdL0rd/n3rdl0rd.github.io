@@ -1,5 +1,5 @@
 {
-  "/blog-a39": {
+  "/blog/-cb0": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
@@ -13,16 +13,16 @@
         "content": "514f208a"
       }
     ],
-    "__props": "c15d9823"
+    "__props": "08af526d"
   },
-  "/blog/archive-182": {
+  "/blog/archive/-1d9": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "36994c47"
     },
-    "__props": "f81c1134"
+    "__props": "dbfc4782"
   },
-  "/blog/authors-0b7": {
+  "/blog/authors/-347": {
     "__comp": "621db11d",
     "__context": {
       "data": {
@@ -31,9 +31,9 @@
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "__props": "ef8b811a"
+    "__props": "dd04b75e"
   },
-  "/blog/authors/me-33e": {
+  "/blog/authors/me/-406": {
     "__comp": "33fc5bb8",
     "__context": {
       "data": {
@@ -50,9 +50,9 @@
       }
     ],
     "sidebar": "814f3328",
-    "__props": "24759f6f"
+    "__props": "a61b4dd1"
   },
-  "/blog/babuk-cyberpanel-1c7": {
+  "/blog/babuk-cyberpanel/-36f": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -63,7 +63,7 @@
     "sidebar": "814f3328",
     "content": "ce70e37f"
   },
-  "/blog/mti-player-48e": {
+  "/blog/mti-player/-238": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -74,15 +74,15 @@
     "sidebar": "814f3328",
     "content": "53b60f9e"
   },
-  "/blog/tags-287": {
+  "/blog/tags/-e17": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "__props": "3a2db09e"
+    "__props": "2063472f"
   },
-  "/blog/tags/malware-a7e": {
+  "/blog/tags/malware/-7de": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -93,9 +93,9 @@
         "content": "514f208a"
       }
     ],
-    "__props": "0e1a88c5"
+    "__props": "ba809b22"
   },
-  "/blog/tags/proprietary-6f1": {
+  "/blog/tags/proprietary/-19c": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -106,9 +106,9 @@
         "content": "20d197ce"
       }
     ],
-    "__props": "8688d82d"
+    "__props": "f8fdf734"
   },
-  "/blog/tags/reversing-899": {
+  "/blog/tags/reversing/-820": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -122,22 +122,22 @@
         "content": "514f208a"
       }
     ],
-    "__props": "fc29552a"
+    "__props": "c57ea805"
   },
-  "/docs-7f1": {
+  "/docs/-956": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-61d": {
+  "/docs/-f1b": {
     "__comp": "a7bd4aaa",
-    "__props": "0058b4c6"
+    "__props": "11b43341"
   },
-  "/docs-43a": {
+  "/docs/-55b": {
     "__comp": "a94703ab"
   },
-  "/docs/about-97c": {
+  "/docs/about/-a64": {
     "__comp": "17896441",
     "content": "3d8d21df"
   }
