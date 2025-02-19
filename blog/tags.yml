@@ -1,0 +1,24 @@
+malware:
+  label: Malware
+  permalink: /malware
+  description: Reverse-engineering of malicious samples and analysis of malware campaigns.
+
+reversing:
+  label: Reverse-Engineering
+  permalink: /reversing
+  description: Reverse-engineering of software, protocols, and file formats.
+
+hardware:
+  label: Hardware
+  permalink: /hardware
+  description: Reverse-engineering of hardware devices and embedded systems.
+
+projects:
+  label: Projects
+  permalink: /projects
+  description: Open-source projects and tools developed by yours truly.
+  
+proprietary:
+  label: Proprietary
+  permalink: /proprietary
+  description: Reverse-engineering of proprietary software and protocols.

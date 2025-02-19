@@ -1,0 +1,51 @@
+{
+  "permalink": "/blog/welcome-docusaurus-v2",
+  "source": "@site/blog/2025-19-2-test.md",
+  "title": "CyberPanel Babuk Variant",
+  "description": "This is my first post on Docusaurus.",
+  "date": null,
+  "tags": [
+    {
+      "inline": false,
+      "label": "Hello",
+      "permalink": "/blog/tags/hello",
+      "description": "Hello tag description"
+    },
+    {
+      "inline": true,
+      "label": "docusaurus-v2",
+      "permalink": "/blog/tags/docusaurus-v-2"
+    }
+  ],
+  "readingTime": 0,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "N3rdL0rd",
+      "url": "https://github.com/N3rdL0rd",
+      "page": {
+        "permalink": "/blog/authors/me"
+      },
+      "socials": {
+        "github": "https://github.com/N3rdL0rd",
+        "discord": "N3rdL0rd",
+        "email": "n3rdl0rd@proton.me"
+      },
+      "imageURL": "https://github.com/N3rdL0rd.png",
+      "key": "me"
+    }
+  ],
+  "frontMatter": {
+    "title": "CyberPanel Babuk Variant",
+    "description": "This is my first post on Docusaurus.",
+    "slug": "welcome-docusaurus-v2",
+    "authors": "me",
+    "tags": [
+      "hello",
+      "docusaurus-v2"
+    ],
+    "image": "https://i.imgur.com/mErPwqL.png",
+    "hide_table_of_contents": false
+  },
+  "unlisted": false
+}

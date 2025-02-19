@@ -1,0 +1,17 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Reversing the MTI Player for Fun (and no profit!)",
+      "permalink": "/blog/mti-player",
+      "unlisted": false,
+      "date": "2024-11-27T00:00:00.000Z"
+    },
+    {
+      "title": "CyberPanel Babuk Variant",
+      "permalink": "/blog/babuk-cyberpanel",
+      "unlisted": false,
+      "date": "2024-11-03T00:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "permalink": "/blog/babuk-cyberpanel",
+  "source": "@site/blog/2024-11-03-babuk-cyberpanel.md",
+  "title": "CyberPanel Babuk Variant",
+  "description": "This is a nasty little sample of ransomware that targets vulnerable CyberPanel instances for RCE, then encrypting VM images. However, it seems to have had its asymmetric encryption ripped entirely out!",
+  "date": "2024-11-03T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Malware",
+      "permalink": "/blog/tags/malware",
+      "description": "Reverse-engineering of malicious samples and analysis of malware campaigns."
+    },
+    {
+      "inline": false,
+      "label": "Reverse-Engineering",
+      "permalink": "/blog/tags/reversing",
+      "description": "Reverse-engineering of software, protocols, and file formats."
+    }
+  ],
+  "readingTime": 3.31,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "N3rdL0rd",
+      "url": "https://github.com/N3rdL0rd",
+      "page": {
+        "permalink": "/blog/authors/me"
+      },
+      "socials": {
+        "github": "https://github.com/N3rdL0rd"
+      },
+      "imageURL": "https://github.com/N3rdL0rd.png",
+      "key": "me"
+    }
+  ],
+  "frontMatter": {
+    "title": "CyberPanel Babuk Variant",
+    "description": "This is a nasty little sample of ransomware that targets vulnerable CyberPanel instances for RCE, then encrypting VM images. However, it seems to have had its asymmetric encryption ripped entirely out!",
+    "slug": "babuk-cyberpanel",
+    "authors": "me",
+    "tags": [
+      "malware",
+      "reversing"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Reversing the MTI Player for Fun (and no profit!)",
+    "permalink": "/blog/mti-player"
+  }
+}

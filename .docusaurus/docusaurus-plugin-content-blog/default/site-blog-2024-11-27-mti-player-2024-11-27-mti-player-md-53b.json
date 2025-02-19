@@ -1,0 +1,52 @@
+{
+  "permalink": "/blog/mti-player",
+  "source": "@site/blog/2024-11-27-mti-player/2024-11-27-mti-player.md",
+  "title": "Reversing the MTI Player for Fun (and no profit!)",
+  "description": "MTI Player is a Mac-only app for playing licensed musical theatre tracks, but it's locked down with invasive security restrictions. Naturally, that made me curious.",
+  "date": "2024-11-27T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Proprietary",
+      "permalink": "/blog/tags/proprietary",
+      "description": "Reverse-engineering of proprietary software and protocols."
+    },
+    {
+      "inline": false,
+      "label": "Reverse-Engineering",
+      "permalink": "/blog/tags/reversing",
+      "description": "Reverse-engineering of software, protocols, and file formats."
+    }
+  ],
+  "readingTime": 12.02,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "N3rdL0rd",
+      "url": "https://github.com/N3rdL0rd",
+      "page": {
+        "permalink": "/blog/authors/me"
+      },
+      "socials": {
+        "github": "https://github.com/N3rdL0rd"
+      },
+      "imageURL": "https://github.com/N3rdL0rd.png",
+      "key": "me"
+    }
+  ],
+  "frontMatter": {
+    "title": "Reversing the MTI Player for Fun (and no profit!)",
+    "description": "MTI Player is a Mac-only app for playing licensed musical theatre tracks, but it's locked down with invasive security restrictions. Naturally, that made me curious.",
+    "slug": "mti-player",
+    "authors": "me",
+    "tags": [
+      "proprietary",
+      "reversing"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "CyberPanel Babuk Variant",
+    "permalink": "/blog/babuk-cyberpanel"
+  }
+}
